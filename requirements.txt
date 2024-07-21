@@ -11,18 +11,7 @@ tldextract
 googlesearch-python
 urllib3
 regex
-Flask
-numpy
-pandas
-scikit-learn
-beautifulsoup4
-requests
-python-whois
-python-dateutil
-dnspython
-tldextract
-googlesearch-python
-urllib3
-regex
 gunicorn
+catboost
+
 
